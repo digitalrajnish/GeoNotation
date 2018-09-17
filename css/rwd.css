@@ -3,6 +3,9 @@
 ********************/
 
 @media (max-width: 1700px) {
+  body{
+    background: yellow;
+  }
 
   #header p {
     font-size: 1.1em;
